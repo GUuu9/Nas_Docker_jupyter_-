@@ -32,6 +32,6 @@
 #### jupyter 노트북
  1. 프로그램 재실행
  2. 아래 코드를 실행하여 설치여부 확인
-import matplotlib.  
+import matplotlib  
 import matplotlib.font_manager  
 [f.name for f in matplotlib.font_manager.fontManager.ttflist if 'Nanum' in f.name]  
