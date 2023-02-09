@@ -2,9 +2,10 @@
 
 
 ### 참고 사이트
-#### https://www.clien.net/service/board/cm_nas/17614098
-#### https://bagng.tistory.com/159
-#### https://teddylee777.github.io/visualization/matplotlib-ubuntu-한글폰트설치
+|링크|
+|https://www.clien.net/service/board/cm_nas/17614098|
+|https://bagng.tistory.com/159|
+|https://teddylee777.github.io/visualization/matplotlib-ubuntu-한글폰트설치|
 
 
 ### 순서대로 진행
